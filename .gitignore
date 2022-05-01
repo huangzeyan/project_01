@@ -1,0 +1,4 @@
+#忽视index.css 文件
+index.css
+#忽视res文件夹中所有txt结尾文件
+res/*.txt
